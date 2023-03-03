@@ -1,3 +1,0 @@
-Créer un jéton d'accès personnalisé
-git remote set-url origin https://denisgambo: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@github.com/denisgambo/votre-repository.git
-
